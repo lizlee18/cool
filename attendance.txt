@@ -1,3 +1,5 @@
 Attendance list
 Lizbeth
 Juan
+Pedro
+Maria
